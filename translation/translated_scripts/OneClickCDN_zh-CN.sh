@@ -32,7 +32,7 @@ REVERSE_PROXY_MODE_ENABLED=OFF
 #您可以在下面关闭OS检查开关，然后自行修改代码以在其它系统上安装。
 #请注意，如果您试图在其他系统上安装，将可能导致不可预知的错误。请注意备份。
 
-OS_CHECK_ENABLED=ON
+OS_CHECK_ENABLED=OFF
 
 
 
